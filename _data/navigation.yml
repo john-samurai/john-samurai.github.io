@@ -1,8 +1,8 @@
 main:
-  - title: "Blogs"
-    url: /blogs/
-  - title: "English"
-    url: /english/
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /Categories/
   - title: "Tags"
     url: /tags/
   - title: "About"
