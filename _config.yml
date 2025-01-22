@@ -62,6 +62,13 @@ author:
   avatar : "/assets/images/DennisNedry2.jpg"
   bio    : "Cybersecurity Enthusiast."
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-brands fa-linkedin"
+      url: "https://github.com/"
+  
     # - label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://"
@@ -71,12 +78,6 @@ author:
     # - label: "Instagram"
       # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-      - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-      - label: "LinkedIn"
-      icon: "fab fa-brands fa-linkedin"
-      url: "https://github.com/"
 
 footer:
   links:
