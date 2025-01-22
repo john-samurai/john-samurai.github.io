@@ -1,6 +1,6 @@
 ---
-title: "Posts by Category"
-layout: categories
-permalink: /categories/
+title: "English"
+layout: posts
+permalink: /english/
 author_profile: true
 ---
