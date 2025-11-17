@@ -9,8 +9,8 @@ author_profile: true
 Hello, I'm john-samurai, a cybersecurity enthusiast currently pursuing my master's degree at Monash University in Australia. My main projects are:
 
 - **CEH**
-  I just started to learn CEH in November 2025 and aiming to achieve it by the end of this year.
+  <br> I just started to learn CEH in November 2025 and aiming to achieve it by the end of this year.
 - **CISA**
-  It will be my next step
+  <br> It will be my next step
 - **IELTS**
-  I am aiming to achieve the score of 8.0
+  <br> I am aiming to achieve the score of 8.0
