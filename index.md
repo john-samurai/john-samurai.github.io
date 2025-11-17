@@ -14,3 +14,8 @@ Hello, I'm john-samurai, a cybersecurity enthusiast currently pursuing my master
   <br> It will be my next step
 - **IELTS**
   <br> I am aiming to achieve the score of 8.0
+
+The projects I have already done:
+
+- **CISSP**
+  <br> I passed the exam in December 2024 and registered in March 2025.
