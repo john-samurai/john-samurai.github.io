@@ -8,8 +8,6 @@ tags:
   - Ransomware
 ---
 
-# Analyzing Medibank' Handling of the 2022 Data Breach: Lessons Learned and Recommendations
-
 ## Summary
 
 This analysis examines Medibank's response to the October 2022 cyberattack that compromised sensitive data of approximately 9.7 million customers. The breach resulted from stolen credentials and inadequate security controls, particularly the lack of multi-factor authentication on VPN access. While Medibank demonstrated strengths in rapid system restoration (within 24 hours) and transparent communication, critical weaknesses emerged in alert management—with a six-week delay in investigating endpoint detection and response (EDR) alerts—and premature public statements claiming no evidence of breach before thorough verification.
