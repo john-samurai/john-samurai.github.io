@@ -6,9 +6,11 @@ layout: single
 author_profile: true
 ---
 
-I am a graduate student at the university in Melbourne. My main projects are:
-- **Project 1**
-- **Project 2**
-- **Project 3**
+Hello, I'm john-samurai, a cybersecurity enthusiast currently pursuing my master's degree at Monash University in Australia. My main projects are:
 
-
+- **CEH**
+  I just started to learn CEH in November 2025 and aiming to achieve it by the end of this year.
+- **CISA**
+  It will be my next step
+- **IELTS**
+  I am aiming to achieve the score of 8.0
